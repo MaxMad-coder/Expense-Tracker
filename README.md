@@ -31,18 +31,6 @@ A simple desktop **Expense Tracker** application built with **Python** and **PyQ
 
 ---
 
-## 📁 Project Structure
-
-```
-expense-tracker/
-│
-├── expense_tracker.py   # Main application file
-├── Expense.db           # SQLite database (auto-created on first run)
-└── README.md            # Project documentation
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
